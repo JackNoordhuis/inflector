@@ -1,0 +1,6 @@
+name: inflector
+description: Common String Manipulations with regard to casing and singular/plural rules.
+version: 1.3.0
+antigen: Doctrine\Common\Inflector
+php: [^7.1]
+authors: [Guilherme Blanco, Roman Borschel, Benjamin Eberlei, Jonathan Wage, Johannes Schmitt, JackNoordhuis]
